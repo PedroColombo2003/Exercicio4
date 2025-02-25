@@ -1,2 +1,2 @@
 # Exercicio4
-pergunte o nome do usuario e apresente a mensagem Oi,... , seguida pelo nome do  usuario.
+Problema: pergunte o nome do usuario e apresente a mensagem Oi,... , seguida pelo nome do  usuario.
